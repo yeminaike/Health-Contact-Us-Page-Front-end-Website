@@ -1,0 +1,86 @@
+ 
+*{
+	padding: 0;
+margin: 0;}
+
+h1{color: white;
+font-size: 80px;}
+
+
+h2{ text-align: center;
+color: white;}
+
+h3{ text-align: center;
+color: white;}
+
+
+	a{ color: blue ;
+	list-style-type: none;
+	text-decoration: none;}
+	
+	
+	
+	ul { display: flex;
+	    float: right;
+	list-style-type: none;
+	margin: 1px;
+	padding: 3px;
+	background-color: white;}
+	
+	
+	
+	
+	li a {
+		  display: block;
+		  color: green;
+		  margin: 5px;
+		  padding: 5px;
+	text-decoration: none;
+	border-right: 2px solid black;}
+	
+	ul > li {
+margin : 0 10px;
+}
+
+	 form { color: white;
+	  border-radius: 20px;
+	  display: flex;
+	  justify-content: center;
+	 font-size: 10px;}
+	 
+	 label{
+	 color: white;
+	 font-size: 20px;}
+	 
+	 .submit button{
+	 border-radius: 20px;}
+	 
+	
+	
+			
+	
+ 
+		 
+		 
+ 
+  
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+ 
+  
+.
+  
